@@ -1,0 +1,1 @@
+[{"op": "fill_circle", "cx": 12, "cy": 12, "r": 10, "color": "#72817a"}, {"op": "fill_circle", "cx": 12, "cy": 12, "r": 8, "color": "#1c333b"}, {"op": "line", "x0": 12, "y0": 12, "x1": 16, "y1": 6, "color": "#f0c17b"}, {"op": "fill_circle", "cx": 12, "cy": 12, "r": 2, "color": "#e8d6a8"}]
